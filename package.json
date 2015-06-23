@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tribemedia/kurento-client-js.git"
+    "url": "git+https://github.com/tribemedia/tribemedia-kurento-client-js.git"
   },
   "bugs": {
     "email": "kurento@googlegroups.com"
